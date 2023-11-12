@@ -1,0 +1,55 @@
+{
+  "seller": [
+    {
+      "id": 1
+    },
+    {
+      "name": "Ali Zaman",
+      "email": "alizamankhan@gmail.com",
+      "password": "abc@123",
+      "id": 2
+    },
+    {
+      "name": "Naveed Zaman",
+      "email": "naveedzamankhan@gmail.com",
+      "password": "abc@123",
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "name": " edsfsd",
+      "password": "qweqw",
+      "email": "qweqw",
+      "id": 6
+    },
+    {
+      "name": "dafsda",
+      "password": "sadsad",
+      "email": "asdasd",
+      "id": 7
+    },
+    {
+      "name": "dfsedsd",
+      "password": "dfsdf",
+      "email": "sdfsdsd",
+      "id": 8
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 9
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 10
+    }
+  ]
+}
